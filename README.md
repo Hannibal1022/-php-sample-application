@@ -1,2 +1,2 @@
-# -php-sample-application
+# php-sample-application
 Test CSA
